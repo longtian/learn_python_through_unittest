@@ -29,13 +29,14 @@ Learn Python
 - [ ] 异常处理
 - [ ] 类
 - [ ] 高级特性
+    - [ ] 列表表达式
     - [ ] 函数式编程
-        - [ ] 高阶函数
-        - [ ] map/reduce/filter
-        - [ ] 匿名函数
-        - [ ] 闭包
+        - [x] 高阶函数
+        - [x] map/reduce/filter
+        - [x] 匿名函数/lambda
+        - [x] 闭包
         - [ ] partial/curry
-    - [ ] 装饰器
+    - [x] 装饰器
     - [ ] 迭代器
     - [ ] 上下文
     - [ ] 生成器
@@ -56,6 +57,7 @@ Learn Python
 
 ### 工具
 
+- [ ] PEP-X
 - [x] unittest
     - [x] assert
     - [ ] mock
