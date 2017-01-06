@@ -15,7 +15,7 @@ Learn Python
 
 - [ ] 编码
     - [ ] 字符集
-    - [ ] base64/md5/sha
+    - [x] base64/md5/sha
     - [ ] 加密/解密
 - [x] 数据类型
     - [x] 列表
@@ -27,17 +27,21 @@ Learn Python
     - [x] 定义
     - [x] 参数魔法
 - [ ] 异常处理
-- [ ] 类
+- [x] 类
+    - [x] 方法
+    - [X] 继承/多态
+    - [ ] super
+    - [ ] metaclass
 - [ ] 高级特性
-    - [ ] 列表表达式
-    - [ ] 函数式编程
+    - [x] 列表表达式
+    - [x] 函数式编程
         - [x] 高阶函数
         - [x] map/reduce/filter
         - [x] 匿名函数/lambda
         - [x] 闭包
-        - [ ] partial/curry
+        - [x] partial/curry
     - [x] 装饰器
-    - [ ] 迭代器
+    - [x] 迭代器
     - [ ] 上下文
     - [ ] 生成器
 
@@ -73,6 +77,7 @@ Learn Python
 
 ### 性能
 
+- [ ] \_\_slots\_\_
 - [ ] Memory Management
 - [ ] CPU Profiling
 
