@@ -42,8 +42,8 @@ Learn Python
         - [x] partial/curry
     - [x] 装饰器
     - [x] 迭代器
-    - [ ] 上下文
-    - [ ] 生成器
+    - [x] 上下文
+    - [x] 生成器
 
 ### 模块
 
