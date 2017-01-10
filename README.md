@@ -26,7 +26,7 @@ Learn Python
 - [x] 函数
     - [x] 定义
     - [x] 参数魔法
-- [ ] 异常处理
+- [x] 异常处理
 - [x] 类
     - [x] 方法
     - [X] 继承/多态
@@ -55,23 +55,23 @@ Learn Python
     - [x] 线程
     - [ ] 协程
     - [x] 环境变量
-- [ ] HTTP 服务器
-    - [ ] 模板引擎
-    - [ ] 进程持久化
 - [x] 正则表达式
 - [ ] 日期
 - [ ] 爬虫
 
 ### 工具
 
-- [ ] PEP-X
+- [x] datetime
+- [x] hashlib
+- [x] requests
+- [x] argparse
 - [x] unittest
     - [x] assert
     - [ ] mock
     - [ ] xUnit
 - [ ] coverage
 - [ ] virtualenv
-- [ ] pip
+- [x] pip
 - [ ] docker
 
 ### 调试
@@ -83,6 +83,10 @@ Learn Python
 - [ ] \_\_slots\_\_
 - [ ] Memory Management
 - [ ] CPU Profiling
+
+### 标准
+
+- [ ] PEP-X
 
 ### 参考
 
