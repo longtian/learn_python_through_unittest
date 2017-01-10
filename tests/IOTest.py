@@ -11,6 +11,9 @@ class IOTest(unittest.TestCase):
             self.assertGreater(len(file.read()), 10)
         except Exception as e:
             print(e)
+        finally:
+            if file:
+                file.close()
 
     def test_read_context(self):
         with open(join(dirname(__file__), '../README.md'), 'r') as file:
